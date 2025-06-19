@@ -37,7 +37,7 @@ DB_NAME=developsToday
 ### 4. Run the application
 
 ```bash
-fastify dev main.py
+fastapi dev main.py
 ```
 
 The API will be available at http://localhost:8000
