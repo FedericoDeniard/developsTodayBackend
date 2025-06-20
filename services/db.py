@@ -5,6 +5,7 @@ import asyncpg
 from models.models import Cat, Mission, Target, Note, StatusType
 from utils.schemas import MissionCreate, TargetCreate, NoteCreate, CatCreate, CatAssignment, SalaryUpdate, StatusUpdate
 from constants.keys import KEYS
+import httpx
 
 
 class Database:
