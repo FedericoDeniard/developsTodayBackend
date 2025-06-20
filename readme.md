@@ -51,7 +51,7 @@ Once the server is running, you can explore the API at:
 
 ## Postman Collection
 
-You can find the Postman collection for testing all endpoints [here](https://.postman.co/workspace/My-Workspace~548b06be-db7f-48cc-8672-93c800e16cc1/collection/32813474-14b244b7-2b97-4346-9bec-e4455ac7b3a1?action=share&creator=32813474).
+You can find the Postman collection for testing all endpoints [here](https://developstodaytest-9107.postman.co/workspace/DevelopsTodayTest-Workspace~548b06be-db7f-48cc-8672-93c800e16cc1/collection/32813474-14b244b7-2b97-4346-9bec-e4455ac7b3a1?action=share&creator=32813474).
 
 ## Available Endpoints
 
